@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rishabh Jain
+- 👋 Hi, I’m Rishabh J.
 - 👀 I’m interested in I.T. Operations and Project Deployments
 - 🌱 I’m currently learning DevOps and Cloud 
 - 💞️ I’m looking to collaborate on Automation scripts and deployments with more projects in JS, JAVA, PHP and other automations with microservices & JIRA on AWS & Jenkins
